@@ -1,5 +1,7 @@
 Інсталювати всі залежності
-npm install
+
+`npm install`
 
 Запуск компіляції
-npm run scss
+
+`npm run scss`
