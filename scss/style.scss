@@ -1,0 +1,13 @@
+@use 'button' as btn;
+@use 'text';
+
+.button {
+  height: btn.$height;
+  font-size: btn.$f-size;
+  border: btn.$border;
+  padding: 5px 15px;
+}
+
+h1 {
+  @include text.title;
+}
